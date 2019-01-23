@@ -1,0 +1,35 @@
+{
+  "name": "@bedou/card",
+  "version": "1.0.0",
+  "description": "Personal CLI V-Card using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PironSteve/nodejs-card-CLI.git"
+  },
+  "keywords": [
+    "cli",
+    "card",
+    "vcard",
+    "nodejs",
+    "npm",
+    "npm card",
+    "npx",
+    "npx card",
+    "business card"
+  ],
+  "author": "@bedou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PironSteve/nodejs-card-CLI/issues"
+  },
+  "homepage": "https://github.com/PironSteve/nodejs-card-CLI#readme",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.1"
+  }
+}
