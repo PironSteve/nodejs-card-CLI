@@ -1,8 +1,9 @@
 {
-  "name": "@bedou/card",
+  "name": "pironsteve",
   "version": "1.0.0",
   "description": "Personal CLI V-Card using NodeJS",
   "main": "index.js",
+  "bin" : "pironsteve",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
