@@ -1,9 +1,11 @@
 {
   "name": "pironsteve",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Personal CLI V-Card using NodeJS",
   "main": "index.js",
-  "bin" : "pironsteve",
+  "bin" : {
+    "pironsteve": "./index.js"
+  },
   "scripts": {
     "prepare": "npm run build",
     "build": "node index.js",
