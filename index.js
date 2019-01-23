@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 
 const boxen = require('boxen');
 const chalk = require('chalk');

@@ -1,6 +1,6 @@
 {
   "name": "pironsteve",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Personal CLI V-Card using NodeJS",
   "main": "index.js",
   "bin" : "pironsteve",
