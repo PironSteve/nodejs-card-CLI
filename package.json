@@ -1,15 +1,13 @@
 {
   "name": "pironsteve",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Personal CLI V-Card using NodeJS",
   "main": "index.js",
   "bin" : {
     "pironsteve": "./index.js"
   },
   "scripts": {
-    "prepare": "npm run build",
-    "build": "node index.js",
-    "dev": "npm run build && node ./index.js",
+    "start": "node index.js",
     "lint": "standard",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
